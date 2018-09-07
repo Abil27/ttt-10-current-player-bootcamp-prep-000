@@ -15,5 +15,4 @@ def current_player(board)
   else
     turn = "O"
   end
-
 end
